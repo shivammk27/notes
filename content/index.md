@@ -1,5 +1,5 @@
 ---
-title: Glad to see you in my space of the internet
+title: Welcome to my room
 date: 2024-05-16
 ---
 
@@ -15,6 +15,7 @@ So, let yourself loose, and let the journey begin !
 </p>
 
 [[all|All notes]] here :
+
 - [[dl|Deep Learning]]
 - [[math|Math]]
 - [[stock|Stock Market]]

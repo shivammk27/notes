@@ -6,8 +6,6 @@ tags:
 enableToc: true
 ---
 
-## I Asked a $15BN Investor for Life Advice
-
 [Link for yt video](https://www.youtube.com/watch?v=Zy7Nld2_JSw)
 
 1. **Investor's Advice and Background:**

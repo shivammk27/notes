@@ -6,8 +6,6 @@ tags:
 enableToc: true
 ---
 
-## Competition is for Losers
-
 [Link for yt video](https://www.youtube.com/watch?v=5_0dVHMpJlo)
 
 ### 1. Creating value

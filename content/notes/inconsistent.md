@@ -5,6 +5,7 @@ tags:
   - general
 enableToc: true
 ---
+
 [Link for yt video](https://www.youtube.com/watch?v=t-6QxCnStws)
 
 1. **Existential overwhelm** : You start to think that there are n number of things i could be doing so what I am doing now is it good enough ? is it attractive looking ? does it have any meaning ? you start to think this is worthless and i am not gonna do it in long term so why bother putting in efforts now. This thought keeps you from putting those efforts in.

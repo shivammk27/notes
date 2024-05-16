@@ -12,7 +12,7 @@ So, let yourself loose, and let the journey begin !
     <img width="75%" src="assets/lucid.jpg">
 </p>
 
-[[all|All notes]] here. Few categories below :
+[[notes|All notes]] here. Few categories below :
 
 - [[dl|Deep Learning]]
 - [[math|Math]]

@@ -9,10 +9,10 @@ My notes are not bound by strict rules of grammar or formatting conventions. Ins
 So, let yourself loose, and let the journey begin !
 
 <p align="center" width="100%">
-    <img width="85%" height="10%" src="assets/lucid.jpg">
+    <img width="75%" src="assets/lucid.jpg">
 </p>
 
-[[all|All notes]] here. Few categories below :
+<!-- [[tags|All notes]] here. Few categories below : -->
 
 - [[dl|Deep Learning]]
 - [[math|Math]]

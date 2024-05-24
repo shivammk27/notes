@@ -9,7 +9,7 @@ My notes are not bound by strict rules of grammar or formatting conventions. Ins
 So, let yourself loose, and let the journey begin !
 
 <p align="center" width="100%">
-    <img width="75%" src="assets/lucid.jpg">
+    <img width="75%" src="assets/lucid.jpeg">
 </p>
 
 [[notes/|All notes]] here. Few categories below :

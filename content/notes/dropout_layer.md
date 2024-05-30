@@ -1,6 +1,6 @@
 ---
 title: Dropout Layer
-date: 2024-05-16
+date: 2024-05-29
 tags:
   - dl
   - revisionNotes

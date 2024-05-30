@@ -1,6 +1,6 @@
 ---
 title: SAME and VALID in padding
-date: 2024-05-16
+date: 2024-05-30
 tags:
   - dl
   - revisionNotes

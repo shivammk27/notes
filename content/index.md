@@ -19,5 +19,3 @@ If you are interested to see what I am reading check my [[./readingList.md|readi
 - [[math|Math]]
 - [[stock|Stock Market]]
 - [[general|General Muse]]
-
-This is my 

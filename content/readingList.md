@@ -21,3 +21,4 @@ Some books I really <code style="color : Aquamarine">liked</code> and few others
 5. <code style="color : aquamarine">Atomic Habits</code> by James Clear
 6. Deep Work by Cal Newport
 7. Zen in the Art of Archery by Eugen Herrigel
+8. <code style="color : lightblue">Trading in the zone</code> by Mark Douglas
